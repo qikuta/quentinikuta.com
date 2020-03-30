@@ -196,6 +196,10 @@ section.success {
     }
 }
 
+.img-responsive{
+    border-radius: 100%;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
