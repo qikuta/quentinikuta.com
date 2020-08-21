@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: My favorite animal
+description: This page features my favorite animal.
 ---
 
-## Welcome to another page
+## My favorite animal is Dot the cat!
+
+![](Dot.JPG)
 
 _yay_
 
