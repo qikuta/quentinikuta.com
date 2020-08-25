@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+Welcome to my website. You may find a variety of interesting pages to visit above. 
 
+<!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Click here to see my favorite animal](./another-page.html).
@@ -121,3 +123,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
