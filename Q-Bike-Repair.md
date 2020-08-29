@@ -1,14 +1,24 @@
 ---
 layout: default
-title: Q's Bike Repair Services
+title: Q's Bike Repair and Maintenance
 description: Bike Repair and Maintenance
 ---
 _![](IMG_5667.JPG)_
 ## About
-_My name is Quentin and I offer bike repair and maintenance services. In addition, I also offer pick up & drop off for a flat fee._
+_Our name is Q's Bike Repair and Maintenance and we offer bike repair and maintenance services. In addition, We also offer pick up & drop off for a flat fee._
+
 _The pro-level tune up, bike assembly, and the works require the pick up & drop off fee._
 
- <a href="https://www.facebook.com/Qs-Bike-Repair-103711121461207/services/?view_public_for=103711121461207&ref=page_internal">See my Facebook Page for details</a>
+## The Team
+_Quentin Ikuta_
+_Quentin Ikuta is a seasoned mechanic with experience at Chilkoot Cyclery and Now Bikes. When he's not working on customer's bikes, he keeps himself busy working on friend's bikes as well as his own._
+_![](Q-pic.JPG)_
+
+_Jack Swift_
+_Jack Swift is a self-taught and very well versed mechanic. Ask him about anything from mechanics to pro bike racing. Jack is the go to man to complement this full service bicycle repair department._ 
+_![](Jack-pic.JPG)_
+
+ <a href="https://www.facebook.com/Qs-Bike-Repair-103711121461207/services/?view_public_for=103711121461207&ref=page_internal">See the Facebook Page for details</a>
 
 ## Service Offerings
 ## Pick up and drop off $15
