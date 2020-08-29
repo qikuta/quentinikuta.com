@@ -10,12 +10,10 @@ _Our name is Q's Bike Repair and Maintenance and we offer bike repair and mainte
 _The pro-level tune up, bike assembly, and the works require the pick up & drop off fee._
 
 ## The Team
-_Quentin Ikuta_
 _Quentin Ikuta is a seasoned mechanic with experience at Chilkoot Cyclery and Now Bikes. When he's not working on customer's bikes, he keeps himself busy working on friend's bikes as well as his own._
 _![](Q-pic.JPG)_
 
-_Jack Swift_
-_Jack Swift is a self-taught and very well versed mechanic. Ask him about anything from mechanics to pro bike racing. Jack is the go to man to complement this full service bicycle repair department._ 
+_Jack Swift is a self-taught and very well versed mechanic. Ask him about anything from mechanics to pro bike racing. Jack is the go to man to complement this full service bicycle repair department._
 _![](Jack-pic.JPG)_
 
  <a href="https://www.facebook.com/Qs-Bike-Repair-103711121461207/services/?view_public_for=103711121461207&ref=page_internal">See the Facebook Page for details</a>
