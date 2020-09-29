@@ -18,7 +18,7 @@ _Description: This project displays emojis in a table view. The user selects an 
 
 _Challenges: The main challenges of this project were passing around the emoji variables from the list where they originate (the home table view) to the definition page. This challenge was solved by using the "sender" command throughout the functions._
 
-
+<a href="https://github.com/qikuta/emojidictionary">See the emojidictionary Github repository for code details</a>
 
 
 [back](./)
