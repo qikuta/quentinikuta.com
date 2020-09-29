@@ -6,7 +6,7 @@ description: Welcome to Quentin's portfolio of work. This portfolio features IOS
 
 # IOS Projects
 
-##Emoji Dictionary
+## Emoji Dictionary
 <table><tr>
 <td> <img src="emoji_home.png" alt="Drawing" style="width: 250px;"/> </td>
 <td> <img src="bug_pic.png" alt="Drawing" style="width: 250px;"/> </td>
