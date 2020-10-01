@@ -26,7 +26,9 @@ _Challenges: The main challenges of this project were passing around the emoji v
 ## ToDo List
 <table><tr>
 <td> <img src="todo1.png" alt="Drawing" style="width: 500px;"/> </td>
+</tr><tr>
 <td> <img src="todo2.png" alt="Drawing" style="width: 500px;"/> </td>
+</tr><tr>
 <td> <img src="todo3.png" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 _Project: ToDo List_
