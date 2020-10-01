@@ -25,9 +25,9 @@ _Challenges: The main challenges of this project were passing around the emoji v
 
 ## ToDo List
 <table><tr>
-<td> <img src="todo1.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="todo2.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="todo3.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="todo1.png" alt="Drawing" style="width: 500px;"/> </td>
+<td> <img src="todo2.png" alt="Drawing" style="width: 500px;"/> </td>
+<td> <img src="todo3.png" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 _Project: ToDo List_
 
@@ -39,8 +39,8 @@ _Challenges: The main challenge of this project was implementing the importance 
 
 ## Link It!
 <table><tr>
-<td> <img src="linkit1.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="linkit2.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="linkit1.png" alt="Drawing" style="width: 500px;"/> </td>
+<td> <img src="linkit2.png" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 
 _Project: Link It!_
