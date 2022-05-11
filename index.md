@@ -7,7 +7,7 @@ title: Quentin Ikuta
 
 <!--_![](profile_pic.JPG)_-->
 <table><tr>
-<td> <img src="profile_pic.JPG" style="width: 500px;"/> </td>
+<td> <img src="profile_pic.jpg" style="width: 500px;"/> </td>
 </tr></table>
 
 <!---
