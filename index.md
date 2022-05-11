@@ -7,7 +7,7 @@ title: Quentin Ikuta
 
 <!--_![](profile_pic.jpg)_-->
 
- <img src="profile_pic.jpg" alt="Profile Pic" style="boarder-radius: 50%"/> 
+ <img src="profile_pic.jpg" alt="Profile Pic" class="circular"/> 
 
 
 
