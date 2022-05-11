@@ -5,9 +5,15 @@ description: Welcome to my portfolio of work. Here you will find some relevant p
 ---
 # Geo Projects
 ## Concentrated Animal Feeding Operations (CAFO) Runoff Analysis 
+_![](MartinCo_FinalCAFOLayout.png)_
+_Project: Potential Contaminant Runoff Analysis from CAFOs in Martin County, Minnesota_
 
+_Description: This project analyzed the potential runoff from 152 CAFOs in Martin County, MN. This county was chosen after a kernel density analysis was done for all of MN, Martin County had the highest concentration of CAFOs throughout the state. Findings included potential heavy contamination into Elm Creek, a tributary of the Blue Earth river, along with potential moderate contamination in 5 additional creeks/rivers. Additionally, A suitability analysis determined only 17 of 152 total CAFOs to be on suitable land (meaning land with a much lower chance of producing contaminated runoff). Main tools used included **Python** functions for calculating attributes, **HEC-GeoHMS** curve number analysis, and **ArcGIS Pro**. Almost all data for this project was obtained at https://gisdata.mn.gov/._
 
+_Challenges: The main challenge of this project was processing the data. I used various optimization workflows to streamline data proessing and eventually run the necessary geoprocessing without timing out or throwing an error._
 
+# Python Projects 
+## To be added... 
 
 # IOS Projects
 
