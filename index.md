@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<font size = "10">**Hi, I'm Quentin.** </font>\
+<font size = "10">Hi, I'm Quentin.</font>\
 Graduate Student (MS) at the University of Minnesota College of Food, Agriculture, and Natural Sciences (CFANS) studying Remote Sensing and Geospatial Analysis of Natural Resources and Public Land Management. 
 
 <!---
