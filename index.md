@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<div style="text-align: left">
-<font size = "10">Hi, I'm Quentin.</font>\
-Graduate Student (MS) at the University of Minnesota College of Food, Agriculture, and Natural Sciences (CFANS) studying Remote Sensing and Geospatial Analysis of Natural Resources and Public Land Management. </div>
-<img align="right" width="400" height="290" src="profile_pic.JPG">
-
+<font size = "10">Hi, I'm Quentin.</font> \
+Graduate Student (MS) at the University of Minnesota College of Food, Agriculture, and Natural Sciences (CFANS) studying Remote Sensing and Geospatial Analysis of Natural Resources and Public Land Management.
+_![](profile_pic.JPG)_
 
 
 <!---
