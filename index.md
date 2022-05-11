@@ -3,6 +3,7 @@ layout: default
 ---
 # Hi, I'm Quentin.
 ## Graduate Student (MS) at the University of Minnesota College of Food, Agriculture, and Natural Sciences (CFANS) studying Remote Sensing and Geospatial Analysis of Natural Resources and Public Land Management. 
+
 _![](profile_pic.JPG)_
 
 <!---
