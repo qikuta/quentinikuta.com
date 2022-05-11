@@ -12,7 +12,7 @@ _My name is Quentin Ikuta and I am passionate about geospatial analysis, natural
 <td> <img src="lidar.jpg" alt="Drawing" style="width: 500px;"/> </td>
 <td> <img src="dot1.jpg" alt="Drawing" style="width: 500px;"/> </td>
 </tr><tr>
-<td> <img src="q_tree.jpg" alt="Drawing" style="width: 500px;"/> </td>
+<td> <img src="q_tree.JPG" alt="Drawing" style="width: 500px;"/> </td>
 <td> <img src="q_annie.jpg" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 
