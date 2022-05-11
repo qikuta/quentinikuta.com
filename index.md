@@ -1,9 +1,14 @@
 ---
 layout: default
+title: Quentin Ikuta
 ---
 # Hi, I'm Quentin.
 ## Graduate Student (MS) at the University of Minnesota College of Food, Agriculture, and Natural Sciences (CFANS) studying Remote Sensing and Geospatial Analysis of Natural Resources and Public Land Management. 
+
 _![](profile_pic.JPG)_
+<table><tr>
+<td> <img src="profile_pic.JPG" style="width: 500px;"/> </td>
+</tr></table>
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
