@@ -1,8 +1,13 @@
 ---
 layout: default
 title: Quentin's Portfolio
-description: Welcome to Quentin's portfolio of work. This portfolio features IOS and MacOS projects that I've successfully developed.
+description: Welcome to my portfolio of work. Here you will find some relevant projects that highlight my skills. 
 ---
+# Geo Projects
+## Concentrated Animal Feeding Operations (CAFO) Runoff Analysis 
+
+
+
 
 # IOS Projects
 
