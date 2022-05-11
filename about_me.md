@@ -12,7 +12,7 @@ _My name is Quentin Ikuta and I am passionate about geospatial analysis, natural
 <td> <img src="todo1.png" alt="Drawing" style="width: 500px;"/> </td>
 <td> <img src="todo2.png" alt="Drawing" style="width: 500px;"/> </td>
 </tr><tr>
-<td> <img src="todo3.png" alt="Drawing" style="width: 500px;"/> </td>
+<td> <img src="profile_pic.jpg" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 
 [back](./)
