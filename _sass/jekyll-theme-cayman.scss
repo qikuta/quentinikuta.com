@@ -378,8 +378,12 @@ a {
 }
 
 
-.schodde-webmap {
+.webmap-container{
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.webmap {
+  width: 750px;
+  height: 1500px;
 }

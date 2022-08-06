@@ -5,10 +5,10 @@ description: This page features an example of a web map I've created.
 ---
 
 ## Web Map Example - St. Louis County, Minnesota - Plat Map with Land Ownership Information
-
-<div class="schodde-webmap">
-<iframe src="https://qikuta.github.io/schoddeLandMap/" style="height:1500px;width:3000px;" style="border:none;">
-</iframe>
-</div> <!--ends schodde webmap-->
-
+<div class="webmap_container">
+    <div class="webmap">
+        <iframe src="https://qikuta.github.io/schoddeLandMap/" style="height:1500px;width:3000px;" style="border:none;">
+        </iframe>
+    </div> <!--ends schodde webmap-->
+</div>
 [back](./)
