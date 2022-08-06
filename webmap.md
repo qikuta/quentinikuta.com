@@ -6,8 +6,6 @@ description: This page features an example of a web map I've created.
 
 ## Web Map Example - St. Louis County Plat Map with Land Ownership Information. 
 
-_![](Dot.JPG)_
-
-_yay_
+<embed src="https://qikuta.github.io/schoddeLandMap/" style="width:500px; height: 300px;">
 
 [back](./)
