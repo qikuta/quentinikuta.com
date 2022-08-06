@@ -377,7 +377,9 @@ a {
   color: $blockquote-text-color;
 }
 
+
 #schodde-webmap {
-  width: inherit;
-  margin:0, auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
