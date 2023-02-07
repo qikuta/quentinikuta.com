@@ -6,14 +6,14 @@ description: Welcome to my portfolio of work. Here you will find some relevant p
 # Geo Projects
 
 ## Photogrammetric Point Cloud Post-Processed with LAStools
-_Project: Analysis and visualization of a photogrammetrically derived point cloud from a UAS mission in the arrowhead region of Minnesota. See the link below to access the potree viewer._
-<a href="./laspublish.6212/portal.html" class="btn">Potree Viewer</a>
+_Project: Analysis and visualization of a photogrammetrically derived point cloud from a UAS mission in the arrowhead region of Minnesota. See the link below to access the potree viewer.
+_
+<a href="./laspublish.6212/portal.html">Potree Viewer</a>
 
 ## Black Ash Stand Monitoring on the Chippewa National Forest and Leech Lake Band of Ojibwe lands
-_Project: A remote sensing project analyzing the health and spatial extent of black ash stands within the Chippewa National Forest and Leech Lake Band of Ojibwe lands._
+_Project: A remote sensing project analyzing the health and spatial extent of black ash stands within the Chippewa National Forest and Leech Lake Band of Ojibwe lands.
+_
 <a href="https://arcg.is/0T1K0C">Click here to view the ArcGIS Online StoryMap</a>
-
-
 
 
 ## Concentrated Animal Feeding Operations (CAFO) Runoff Analysis 
