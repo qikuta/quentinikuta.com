@@ -6,7 +6,7 @@ description: This page provides an introduction on me, Quentin.
 
 ## About Me
 
-_My name is Quentin Ikuta and I am passionate about geospatial analysis, natural resource management, and social justice. I am currently a Masters student at the University of Minnesota, College of Food, Agriculture, and Natural Sciences (CFANS)within the Department of Forest Resources. I am studying within the Geospatial analysis and remote sensing track. When I'm not studying or working, I enjoy spending time with my cat, reading, bike riding, hiking, and prairie frolicking._
+_My name is Quentin Ikuta and I am passionate about forestry, geospatial analysis, ecosystem restoration, and traditional ecological knowledge-based practices. I recently graduated with my Masters degree from the University of Minnesota, College of Food, Agriculture, and Natural Sciences (CFANS) within the Department of Forest Resources. I am studying within the Forests: Biology, Ecology, Conservation, and Management track. When I'm not studying or working, I enjoy spending time with my cat, reading, bike riding, hiking, and foraging._
 
 <table><tr>
 <td> <img src="lidar.jpg" alt="Drawing" style="width: 500px;"/> </td>
@@ -16,6 +16,6 @@ _My name is Quentin Ikuta and I am passionate about geospatial analysis, natural
 <td> <img src="q_annie.jpg" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 
-_From top left: Me with a fancy LiDAR  scanner in a floodplain forest, my cat, me in a trunk of a huge Cottonwood tree, me and my partner's dog on a hike._ 
+_From top left: Me with a fancy LiDAR  scanner in a floodplain forest, my cat, me in a trunk of a huge Cottonwood tree, me and my partner's dog on a hike._
 
 [Go Back Home](./)
