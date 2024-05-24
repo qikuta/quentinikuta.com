@@ -19,7 +19,7 @@ title: Quentin Ikuta
  *   Diversity, Equity, Inclusion, and Accessibility leadership in the form of events on public lands in communities specifically for individuals that identify as Black, Indigenous, and People of Color (BIPOC).
 
 #### Software/Tools/Machines Used
-| -               | -            | -            | -              | -                |
+|                 |              |              |                |                  |
 |-----------------|--------------|--------------|----------------|------------------|
 | ArcGIS Pro      | Reliable Car | Angle Gauge  | Air Compressor | Saws             |
 | FVS             | Maps/Avenza  | Prism        | Biltmore Stick | Backpack Sprayer |
