@@ -7,12 +7,9 @@ title: Quentin Ikuta
 
 <a href="https://arcg.is/1iSvaL1">Click here to view my MS Thesis ArcGIS Online StoryMap - Mapping Oak Stewardship Potential Within the Nantahala National Forest</a>
 
+<img src="profile_pic.jpg" alt="Profile Pic" class="circular"/>
 
-<!--_![](profile_pic.jpg)_-->
-
- <img src="profile_pic.jpg" alt="Profile Pic" class="circular"/>
-
- #### Some of My Main Skills Include:
+ ### Some of My Main Skills Include:
 
  *   Silvicultural prescriptions and timber contracts, common stand exams, stand cruising,forest biometric calculations and reports, NEPA planning and compliance.
  *   Field monitoring of stand treatments, reporting back status and evaluations.
@@ -22,7 +19,8 @@ title: Quentin Ikuta
  *   Advanced geospatial information systems (GIS), remote sensing, and cartography skills.
  *   Diversity, Equity, Inclusion, and Accessibility leadership in the form of events on public lands in communities specifically for individuals that identify as Black, Indigenous, and People of Color (BIPOC).
 
- #### Software/Tools/Machines Used
+ ### Software/Tools/Machines Used
+ | head1          | head two          | three          |  test          |   test          |
  |:---------------|:------------------|:---------------|:---------------|:----------------|
  | ArcGIS Pro     | Reliable Car      | Angle Gauge    | Air Compressor | Saws            |
  | FVS            | Maps/Avenza       | Prism          | Biltmore Stick | Backpack Sprayer|
