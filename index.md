@@ -22,14 +22,7 @@ _Continue scrolling &darr; to view an overview of my highlighted skills, softwar
 
 #### Software/Tools/Machines Used
 _![](skillstable.png)_
-| Software         | Forestry Tools   | Forestry Tools   | Forestry Tools   | Forestry Tools   |
-|------------------|------------------|------------------|------------------|------------------|
-| ArcGIS Pro       | Reliable Car     | Angle Gauge      | Air Compressor   | Saws             |
-| FVS              | Drivers License  | Prism            | Biltmore Stick   | Backpack Sprayer |
-| R Studio         | Compass          | Clinometer       | UAS Drone        | Hand Sprayer     |
-| Android Tablets  | Loggers Tape     | Chainsaw         | ATV/UTV          | Pruning Loppers  |
-| MS Office Suite  | Hypsometer       | Auger            | 4x4 Vehicles     | Drip Torch       |
-| Maps/Avenza      | Binoculars       | Brush Cutter     | Snowmobiles      | Axe              |
+
 
 #### Trainings and Certifications
  *   Oregon ATV Safety Certified
