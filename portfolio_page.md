@@ -8,6 +8,7 @@ description: Welcome to my portfolio of work. Here you will find some relevant p
 ## Masters Thesis ArcGIS StoryMap: Mapping Oak Stewardship Potential Within the Nantahala National Forest
 _![](storymap.png)_
 _Project: My Masters of Science Thesis Summarized in an ArcGIS Online StoryMap. This project aims to spatially map the realized niche of 5 common oak species throughout the Nantahala Mountains within the Nantahala National Forest to inform management order-of-entry and to help prioritize oak-silvicultural systems across the landscape._
+
 <a href="https://arcg.is/1iSvaL1">Click here to view the ArcGIS Online StoryMap</a>
 
 ## Photogrammetric Point Cloud Post-Processed with LAStools
