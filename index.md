@@ -3,12 +3,41 @@ layout: default
 title: Quentin Ikuta
 ---
 # Hi, I'm Quentin.
-## Graduate Student (MS) at the University of Minnesota College of Food, Agriculture, and Natural Sciences (CFANS) studying Remote Sensing and Geospatial Analysis of Natural Resources and Public Land Management. 
+## I am an early-career Forester and hold a Masters of Science (MS) degree from the University of Minnesota College of Food, Agriculture, and Natural Sciences (CFANS). My degree is in Natural Resources Science and Management - Forests: Biology, Ecology, Conservation, and Management.
+
 
 <!--_![](profile_pic.jpg)_-->
 
- <img src="profile_pic.jpg" alt="Profile Pic" class="circular"/> 
+ <img src="profile_pic.jpg" alt="Profile Pic" class="circular"/>
 
+ #### Some of My Main Skills Include:
+
+ *   Silvicultural prescriptions and timber contracts, common stand exams, stand cruising,forest biometric calculations and reports, NEPA planning and compliance.
+ *   Field monitoring of stand treatments, reporting back status and evaluations.
+ *   Rx and wildlife fuels suppression, treatment, and management.
+ *   Interdisciplinary collaboration with timber, wildlife, fire, and botany.
+ *   Strong interest and knowledge of traditional ecological knowledge (TEK) particularly of local Dakota and Ojibwe nations.
+ *   Advanced geospatial information systems (GIS), remote sensing, and cartography skills.
+ *   Diversity, Equity, Inclusion, and Accessibility leadership in the form of events on public lands in communities specifically for individuals that identify as Black, Indigenous, and People of Color (BIPOC).
+
+ #### Software/Tools/Machines Used
+ |:---------------|:------------------|:---------------|:---------------|:----------------|
+ | ArcGIS Pro     | Reliable Car      | Angle Gauge    | Air Compressor | Saws            |
+ | FVS            | Maps/Avenza       | Prism          | Biltmore Stick | Backpack Sprayer|
+ | R Studio       | Compass           | Clinometer     | UAS Drone      | Hand Sprayer    |
+ | Android Tablets| Loggers Tape      | Chainsaw       | ATV/UTV        | Pruning Loppers |
+ | MS Office Suite| Hypsometer        | Auger          | 4x4 Vehicles   | Drip Torch      |
+ | Drivers License| Binoculars        | Brush Cutter   | Snowmobiles    | Axe             |
+
+
+ #### Trainings and Certifications
+ *   Oregon ATV Safety Certified
+ *   Firearm Safety Certified
+ *   Contracting Officer's Representative (May 2024)
+ *   FFT2 in progress as of August 2023 (still need to do pack test, all courses complete)
+ *   Remote Pilot in Command, part 107, licensed Uncrewed Aircraft Systems pilot
+ *   USDA Forest Service First Aid and CPR - Valid through July 2025
+ *   OF-346 U.S. Government Motor Vehicle Operator’s Identification Card
 
 
 <!---
