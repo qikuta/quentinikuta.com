@@ -19,14 +19,14 @@ title: Quentin Ikuta
  *   Diversity, Equity, Inclusion, and Accessibility leadership in the form of events on public lands in communities specifically for individuals that identify as Black, Indigenous, and People of Color (BIPOC).
 
 #### Software/Tools/Machines Used
-|                 |              |              |                |                  |
-|-----------------|--------------|--------------|----------------|------------------|
-| ArcGIS Pro      | Reliable Car | Angle Gauge  | Air Compressor | Saws             |
-| FVS             | Maps/Avenza  | Prism        | Biltmore Stick | Backpack Sprayer |
-| R Studio        | Compass      | Clinometer   | UAS Drone      | Hand Sprayer     |
-| Android Tablets | Loggers Tape | Chainsaw     | ATV/UTV        | Pruning Loppers  |
-| MS Office Suite | Hypsometer   | Auger        | 4x4 Vehicles   | Drip Torch       |
-| Drivers License | Binoculars   | Brush Cutter | Snowmobiles    | Axe              |
+| Software        | Forestry Tools  | Forestry Tools | Forestry Tools | Forestry Tools   |
+|-----------------|-----------------|----------------|----------------|------------------|
+| ArcGIS Pro      | Reliable Car    | Angle Gauge    | Air Compressor | Saws             |
+| FVS             | Drivers License | Prism          | Biltmore Stick | Backpack Sprayer |
+| R Studio        | Compass         | Clinometer     | UAS Drone      | Hand Sprayer     |
+| Android Tablets | Loggers Tape    | Chainsaw       | ATV/UTV        | Pruning Loppers  |
+| MS Office Suite | Hypsometer      | Auger          | 4x4 Vehicles   | Drip Torch       |
+| Maps/Avenza     | Binoculars      | Brush Cutter   | Snowmobiles    | Axe              |
 
 
 #### Trainings and Certifications
