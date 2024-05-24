@@ -9,8 +9,8 @@ title: Quentin Ikuta
 
 <img src="profile_pic.jpg" alt="Profile Pic" class="circular"/>
 
+#
  ### Some of My Main Skills Include:
-
  *   Silvicultural prescriptions and timber contracts, common stand exams, stand cruising,forest biometric calculations and reports, NEPA planning and compliance.
  *   Field monitoring of stand treatments, reporting back status and evaluations.
  *   Rx and wildlife fuels suppression, treatment, and management.
@@ -18,7 +18,7 @@ title: Quentin Ikuta
  *   Strong interest and knowledge of traditional ecological knowledge (TEK) particularly of local Dakota and Ojibwe nations.
  *   Advanced geospatial information systems (GIS), remote sensing, and cartography skills.
  *   Diversity, Equity, Inclusion, and Accessibility leadership in the form of events on public lands in communities specifically for individuals that identify as Black, Indigenous, and People of Color (BIPOC).
-
+#
  ### Software/Tools/Machines Used
  | head1          | head two          | three          |  test          |   test          |
  |:---------------|:------------------|:---------------|:---------------|:----------------|
@@ -29,8 +29,8 @@ title: Quentin Ikuta
  | MS Office Suite| Hypsometer        | Auger          | 4x4 Vehicles   | Drip Torch      |
  | Drivers License| Binoculars        | Brush Cutter   | Snowmobiles    | Axe             |
 
-
- #### Trainings and Certifications
+#
+ ### Trainings and Certifications
  *   Oregon ATV Safety Certified
  *   Firearm Safety Certified
  *   Contracting Officer's Representative (May 2024)
