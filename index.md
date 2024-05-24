@@ -9,7 +9,7 @@ title: Quentin Ikuta
 
 <img src="profile_pic.jpg" alt="Profile Pic" class="circular"/>
 
-_Continue scrolling to view an overview of my highlighted skills, software/tools, and trainings/certifications_
+_Continue scrolling &darr; to view an overview of my highlighted skills, software/tools, and trainings/certifications_
 
 #### Some of My Main Skills Include:
  *   Silvicultural prescriptions and timber contracts, common stand exams, stand cruising,forest biometric calculations and reports, NEPA planning and compliance.
