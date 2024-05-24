@@ -5,6 +5,8 @@ title: Quentin Ikuta
 # Hi, I'm Quentin.
 ## I am an early-career Forester and hold a Masters of Science (MS) degree from the University of Minnesota College of Food, Agriculture, and Natural Sciences (CFANS). My degree is in Natural Resources Science and Management - Forests: Biology, Ecology, Conservation, and Management.
 
+<a href="https://arcg.is/1iSvaL1">Click here to view my MS Thesis ArcGIS Online StoryMap - Mapping Oak Stewardship Potential Within the Nantahala National Forest</a>
+
 
 <!--_![](profile_pic.jpg)_-->
 
