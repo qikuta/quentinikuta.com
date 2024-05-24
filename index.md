@@ -21,7 +21,7 @@ title: Quentin Ikuta
 #
  ### Software/Tools/Machines Used
  | head1          | head two          | three          |  test          |   test          |
- |:---------------|:------------------|:---------------|:---------------|:----------------|
+ |:---------------|:-----------------:|:--------------:|:--------------:|----------------:|
  | ArcGIS Pro     | Reliable Car      | Angle Gauge    | Air Compressor | Saws            |
  | FVS            | Maps/Avenza       | Prism          | Biltmore Stick | Backpack Sprayer|
  | R Studio       | Compass           | Clinometer     | UAS Drone      | Hand Sprayer    |
