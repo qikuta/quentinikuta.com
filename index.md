@@ -9,6 +9,8 @@ title: Quentin Ikuta
 
 <img src="profile_pic.jpg" alt="Profile Pic" class="circular"/>
 
+_Continue scrolling to view an overview of my highlighted skills, software/tools, and trainings/certifications_
+
 #### Some of My Main Skills Include:
  *   Silvicultural prescriptions and timber contracts, common stand exams, stand cruising,forest biometric calculations and reports, NEPA planning and compliance.
  *   Field monitoring of stand treatments, reporting back status and evaluations.
@@ -19,14 +21,7 @@ title: Quentin Ikuta
  *   Diversity, Equity, Inclusion, and Accessibility leadership in the form of events on public lands in communities specifically for individuals that identify as Black, Indigenous, and People of Color (BIPOC).
 
 #### Software/Tools/Machines Used
-| Software        | Forestry Tools  | Forestry Tools | Forestry Tools | Forestry Tools   |
-|-----------------|-----------------|----------------|----------------|------------------|
-| ArcGIS Pro      | Reliable Car    | Angle Gauge    | Air Compressor | Saws             |
-| FVS             | Drivers License | Prism          | Biltmore Stick | Backpack Sprayer |
-| R Studio        | Compass         | Clinometer     | UAS Drone      | Hand Sprayer     |
-| Android Tablets | Loggers Tape    | Chainsaw       | ATV/UTV        | Pruning Loppers  |
-| MS Office Suite | Hypsometer      | Auger          | 4x4 Vehicles   | Drip Torch       |
-| Maps/Avenza     | Binoculars      | Brush Cutter   | Snowmobiles    | Axe              |
+_![](skillstable.png)_
 
 
 #### Trainings and Certifications
