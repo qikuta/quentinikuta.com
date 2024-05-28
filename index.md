@@ -24,7 +24,7 @@ title: Quentin Ikuta
 #### Software/Tools/Machines Used
 _![](skillstable.png)_
 
-.
+
 #### Trainings and Certifications
  *   Oregon ATV Safety Certified
  *   Firearm Safety Certified
