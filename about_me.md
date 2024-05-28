@@ -6,7 +6,7 @@ description: This page provides an introduction on me, Quentin.
 
 ## About Me
 
-_My name is Quentin Ikuta and I am passionate about forestry, geospatial analysis, ecosystem restoration, and traditional ecological knowledge-based practices. I recently graduated with my Masters degree from the University of Minnesota, College of Food, Agriculture, and Natural Sciences (CFANS) within the Department of Forest Resources. I am studying within the Forests: Biology, Ecology, Conservation, and Management track. When I'm not studying or working, I enjoy spending time with my cat, reading, bike riding, hiking, and foraging._
+_My name is Quentin Ikuta and I am passionate about forestry, geospatial analysis, ecosystem restoration, and traditional ecological knowledge-based practices. I recently graduated with my Masters degree from the University of Minnesota, College of Food, Agriculture, and Natural Sciences (CFANS) within the Department of Forest Resources. I studied within the Forests: Biology, Ecology, Conservation, and Management track. When I'm not working, I enjoy spending time with my cat, reading, bike riding, fishing, hunting, hiking, and foraging._
 
 <table><tr>
 <td> <img src="lidar.jpg" alt="Drawing" style="width: 500px;"/> </td>
