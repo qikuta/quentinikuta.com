@@ -4,4 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 title: Quentin Ikuta
-description: Occupation: Forester. Education: Masters Degree in Natural Resources Science and Management from the University of Minnesota.
+description:
+
+#Occupation: Forester. Education: Masters Degree in Natural Resources Science and Management from the University of Minnesota.
