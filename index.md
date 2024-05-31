@@ -3,7 +3,7 @@ layout: default
 title: Quentin Ikuta
 ---
 # Hi, I'm Quentin.
-##Continue scrolling &darr; to view an overview of my highlighted skills, software/tools, and trainings/certifications.
+## Continue scrolling &darr; to view an overview of my highlighted skills, software/tools, and trainings/certifications.
 
 <img src="profile_pic.jpg" alt="Profile Pic" class="circular"/>
 

@@ -3,7 +3,7 @@ layout: default
 title: Quentin's Portfolio
 description: Welcome to my portfolio of work. Here you will find some relevant projects that highlight my skills.
 ---
-#Projects
+# Projects
 
 ## Masters Thesis ArcGIS StoryMap: Mapping Oak Stewardship Potential Within the Nantahala National Forest
 _![](storymap.png)_
