@@ -16,6 +16,6 @@ _My name is Quentin Ikuta and I am passionate about forestry, geospatial analysi
 <td> <img src="q_fish.jpg" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
 
-_From top left: Me with a fancy LiDAR  scanner in a floodplain forest, my cat, me in a trunk of a huge Cottonwood tree, my first brown trout on the fly._
+_From top left: Me with a fancy LiDAR  scanner in a floodplain forest, my cat, me in a trunk of a huge Cottonwood tree, my first brown trout on the fly rod._
 
 [Go Back Home](./)
